@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git_Kuz", "Git_Kuz.csproj", "{8B810C1B-28EC-4C27-BAA4-57962077D548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B810C1B-28EC-4C27-BAA4-57962077D548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B810C1B-28EC-4C27-BAA4-57962077D548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B810C1B-28EC-4C27-BAA4-57962077D548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B810C1B-28EC-4C27-BAA4-57962077D548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF8A9834-5969-4F01-8457-3A3FFC3BFB47}
+	EndGlobalSection
+EndGlobal
